@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/porto484/static/css/main.b8562e92.css",
+    "main.js": "/porto484/static/js/main.adb1430d.js",
+    "static/media/profile.jpg": "/porto484/static/media/profile.f17244413b770f98f2fe.jpg",
+    "static/media/CV.pdf": "/porto484/static/media/CV.47550e0fe2d664ddc16a.pdf",
+    "index.html": "/porto484/index.html",
+    "main.b8562e92.css.map": "/porto484/static/css/main.b8562e92.css.map",
+    "main.adb1430d.js.map": "/porto484/static/js/main.adb1430d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8562e92.css",
+    "static/js/main.adb1430d.js"
+  ]
+}
