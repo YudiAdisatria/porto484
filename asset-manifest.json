@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/porto484/static/css/main.b8562e92.css",
-    "main.js": "/porto484/static/js/main.82be8054.js",
+    "main.css": "/porto484/static/css/main.d8bee1bb.css",
+    "main.js": "/porto484/static/js/main.0fb5ddaa.js",
     "static/media/profile.jpg": "/porto484/static/media/profile.f17244413b770f98f2fe.jpg",
     "static/media/CV.pdf": "/porto484/static/media/CV.47550e0fe2d664ddc16a.pdf",
     "index.html": "/porto484/index.html",
-    "main.b8562e92.css.map": "/porto484/static/css/main.b8562e92.css.map",
-    "main.82be8054.js.map": "/porto484/static/js/main.82be8054.js.map"
+    "main.d8bee1bb.css.map": "/porto484/static/css/main.d8bee1bb.css.map",
+    "main.0fb5ddaa.js.map": "/porto484/static/js/main.0fb5ddaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8562e92.css",
-    "static/js/main.82be8054.js"
+    "static/css/main.d8bee1bb.css",
+    "static/js/main.0fb5ddaa.js"
   ]
 }
