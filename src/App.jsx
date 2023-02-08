@@ -13,6 +13,12 @@ const App = () => {
       <About />
       <Exp />
       <Service />
+      <div>
+        <br />
+        <br />
+        <br />
+        <br />
+      </div>
     </>
   )
 }

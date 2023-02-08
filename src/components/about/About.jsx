@@ -31,13 +31,12 @@ const About = () => {
               <h5>Partner</h5>
               <small>2 Parterns</small>
             </article>
-
-            <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde sunt quam amet voluptas maiores atque ullam, recusandae, ab pariatur debitis velit dignissimos? Vitae suscipit atque veniam, temporibus nostrum culpa qui?
-            </p>
             
-            <a href="#contact" className='btn btn-primary'>Let's Talk</a>
           </div>
+          <p>
+            An enthusiastic, organized and hard-working person equipped with strong interpersonal skills, strong motivation to succeed, integrity, dedication, perseverance, and supporting experiences. Graduate on 2022 from Informatics Engineering of Computer Science department at Soegijapranata Catholic University. I have some experiences on several lecturer project especially on web development using Laravel focus on backend engineer to provide database MySQL architecture, functional website, and more.
+          </p>
+          <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>
     </section>
